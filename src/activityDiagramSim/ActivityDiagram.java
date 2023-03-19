@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class ActivityDiagram {
 	public ArrayList<ActivityNode> nodes;
+	
 	public ArrayList<ActivityEdge> edges;
 
 	public ActivityDiagram() {
